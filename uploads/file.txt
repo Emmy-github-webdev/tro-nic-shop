@@ -1,0 +1,10 @@
+Add to git repo
+
+Backend Dependencies
+
+bcryptjs concurrently dotenv express express-async-handler jsonwebtoken mongoose multer nodemon morgan
+
+
+Frontend Dependencies
+
+axios react-bootstrap react-dom react-paypal-button-v2 react-redux react-router-bootstrap react-router-dom redux redux-devtools-extension redux-thunk
